@@ -16,3 +16,4 @@ dsiplay.o: display.c display.h ml6.h
 
 clean:
 	rm *.o *~
+	rm main
