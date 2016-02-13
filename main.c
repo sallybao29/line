@@ -23,6 +23,7 @@ int main() {
   draw_line( 0, 0, XRES-1, YRES - 75, s, c);
   //octant 2
   draw_line( 0, 0, XRES - 75, YRES-1, s, c); 
+ 
   //octant 8
   draw_line( 0, YRES-1, XRES-1, 75, s, c);  
   //octant 7
